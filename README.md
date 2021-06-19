@@ -35,7 +35,7 @@ In this  snapshot we are going to create replica of the selected file using crea
 
 Receiver Module
  
-  This module contains the receiving replica and its record.
+This module contains the receiving replica and its record.
 
 	In this snapshot we show the replica receiver 
 ![image](https://user-images.githubusercontent.com/69362478/122636412-c4669c00-d106-11eb-9aa5-72395d6e08ec.png)
