@@ -1,0 +1,29 @@
+Topics
+
+1 
+2
+3 Expressions And Operators
+
+
+
+
+
+
+
+
+
+
+Interview Questions
+
+1 diff between null and undefined 
+var iAmUseless=null;
+console.log(iAmUseless);
+console.log(typeof(iAmUseless)); // object which is bug
+
+2 What is NaN?  console.log("Java"-"Script");  var myName="Shivani";
+var myNumber=1234456788;
+
+if(isNaN(myName))
+{
+console.log("Enter valid number");
+}
