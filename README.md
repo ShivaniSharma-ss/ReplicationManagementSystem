@@ -7,7 +7,7 @@ another server. It will be providing  advantages of high availability, reliabili
 
 ### Home Page
 
-	The home page of data structure visualizer is as follows:
+	The home page of Replication Management System is as follows:
 	It contains 2 different pages:- homepage and login page.
 
 ![image](https://user-images.githubusercontent.com/69362478/122636291-1bb83c80-d106-11eb-8fef-bc96c50930b4.png)
